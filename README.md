@@ -22,7 +22,7 @@ cd personalfinancetracker
 Now open the folder in VS Code
 You will get followed folder structure
 
-![folderstructure](folderstructure.png)
+![folderstructure](./folderstructure.png)
 
 ## Step 2: Set Up the Backend
 
