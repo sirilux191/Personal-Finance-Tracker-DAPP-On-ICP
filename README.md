@@ -22,7 +22,7 @@ cd personalfinancetracker
 Now open the folder in VS Code
 You will get followed folder structure
 
-![folderstructure](./folderstructure.PNG)
+![folderstructure](./folderstructure.jpg)
 
 ## Step 2: Set Up the Backend
 
@@ -226,7 +226,7 @@ Download the frontend files from this [link](http://sirilux.in/wp-content/upload
 
 You should have following updated folder structure
 
-![updatedfolderstructure](updatedfolderstructure.PNG)
+![updatedfolderstructure](updatedfolderstructure.jpg)
 
 ## Step 4: Configure the Project for React Frontend
 
