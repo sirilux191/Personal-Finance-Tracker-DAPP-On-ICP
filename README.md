@@ -292,7 +292,7 @@ module: {
 Deploy both the frontend and backend with the following command:
 
 ```shell
-    dfx deploy --network=ic
+    dfx deploy --network=ic --with-cycles 1500000000000
 ```
 
 You can now interact with the frontend and backend "separately".
