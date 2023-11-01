@@ -242,7 +242,7 @@ npm install --save-dev typescript ts-loader
 npm install --save-dev style-loader css-loader
 ```
 
-![reactdependenciesinstalled](reactdependenciesinstalled.PNG)
+![reactdependenciesinstalled](reactdependenciesinstalled.jpg)
 
 2.  Open the webpack.config.js file and make the following modifications:
 
@@ -254,7 +254,7 @@ entry: {
 },
 ```
 
-![webpackjsxconfig](webpackjsxconfig.PNG)
+![webpackjsxconfig](webpackjsxconfig.jpg)
 
 - Uncomment the module configuration to include TypeScript and CSS loaders.
 
@@ -267,7 +267,7 @@ module: {
 },
 ```
 
-![webpackcssconfig](webpackcssconfig.PNG)
+![webpackcssconfig](webpackcssconfig.jpg)
 
 - Create a tsconfig.json file in your project's root directory and add the following configuration:
 
@@ -283,7 +283,7 @@ module: {
 }
 ```
 
-![tsconfigsave](tsconfigsave.PNG)
+![tsconfigsave](tsconfigsave.jpg)
 
 ## Step 5: Deploy Your Dapp
 
@@ -312,17 +312,17 @@ Additionally, install the dependencies required to display lists of expenses and
 npm install @tanstack/react-table
 ```
 
-![connect2icinstall](connect2icinstall.PNG)
+![connect2icinstall](connect2icinstall.jpg)
 
 ## Step 7: Configure Connect2IC
 
 Now download full frontend code with backend integration done from [here](http://sirilux.in/wp-content/uploads/2023/10/download2.zip)
 
 - Copy the connect2ic.css file into the src folder of personalfinancetracker_frontend folder.
-  ![connect2iccss](connect2iccss.PNG)
+  ![connect2iccss](connect2iccss.jpg)
 - Open App.jsx of your existing files and compare it with the downloaded App.jsx to see the differences.
 
-![appjsxdiff1](appjsxdiff1.PNG)
+![appjsxdiff1](appjsxdiff1.jpg)
 
 - Update the differences accordingly
 - Repeat the same process for
@@ -334,7 +334,7 @@ Now download full frontend code with backend integration done from [here](http:/
 Now, you are ready to deploy your full-stack Dapp on the Internet Computer and start managing your personal finances.
 
 ```shell
-    dfx deploy --network=ic
+    dfx deploy --network=ic --with-cycles 1500000000000 
 ```
 
 By following these steps and integrating Connect2IC, you will have a fully functional Dapp for tracking personal finances on the Internet Computer.
