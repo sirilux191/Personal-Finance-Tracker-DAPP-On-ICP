@@ -6,7 +6,7 @@ In this tutorial, we will guide you through the process of creating a Personal F
 
 Before we begin, make sure you have the following installed and set up:
 
-1. **DFX (Internet Computer Development Kit):** Follow the [DFX installation tutorial](https://drive.google.com/file/d/1CDtUCfntyH-xMqmzMsSaKjFITGCpvgmi/view?usp=drive_link) to set up DFX for development.
+1. **DFX (Internet Computer Development Kit):** Follow the [DFX installation tutorial](https://docs.google.com/document/d/1wGVVqlXZE8rzlLQOl4P4CkUP9dCVqIGc8iLTBthwinc/edit?usp=sharing) to set up DFX for development.
 
 2. **Redeem Cycles:** You need cycles to deploy your Dapp on the Internet Computer. Follow the [link to redeem coupon](https://internetcomputer.org/docs/current/developer-docs/setup/cycles/cycles-faucet) for cycles.
 
