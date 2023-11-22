@@ -222,7 +222,7 @@ actor {
 
 ## Step 3: Set Up the Frontend
 
-Download the frontend files from this [link](https://drive.google.com/file/d/1Ny3-04Iuj_QKEjZoK_f1EZOeki47K-K7/view?usp=sharing), unzip it & replace the existing files in the personalfinancetracker_frontend folder. (i.e. Delete every folder & file under personalfinancetracker_frontend folder and copy paste the downloaded file)
+Download the frontend files from this [link](https://drive.google.com/file/d/1CDtUCfntyH-xMqmzMsSaKjFITGCpvgmi/view?usp=drive_link), unzip it & replace the existing files in the personalfinancetracker_frontend folder. (i.e. Delete every folder & file under personalfinancetracker_frontend folder and copy paste the downloaded file)
 
 You should have following updated folder structure
 
