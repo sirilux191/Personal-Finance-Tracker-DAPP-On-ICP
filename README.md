@@ -222,7 +222,7 @@ actor {
 
 ## Step 3: Set Up the Frontend
 
-Download the frontend files from this [link](https://drive.google.com/file/d/1CDtUCfntyH-xMqmzMsSaKjFITGCpvgmi/view?usp=drive_link), unzip it & replace the existing files in the personalfinancetracker_frontend folder. (i.e. Delete every folder & file under personalfinancetracker_frontend folder and copy paste the downloaded file)
+Download the frontend files from this [link](https://drive.google.com/file/d/15KRpYA50ZR-viyxoTuHZUh4wOOS5yWnT/view?usp=sharing), unzip it & replace the existing files in the personalfinancetracker_frontend folder. (i.e. Delete every folder & file under personalfinancetracker_frontend folder and copy paste the downloaded file)
 
 You should have following updated folder structure
 
@@ -316,7 +316,7 @@ npm install @tanstack/react-table
 
 ## Step 7: Configure Connect2IC
 
-Now download full frontend code with backend integration done from [here](http://sirilux.in/wp-content/uploads/2023/10/download2.zip)
+Now download full frontend code with backend integration done from [here](https://drive.google.com/file/d/1CDtUCfntyH-xMqmzMsSaKjFITGCpvgmi/view?usp=drive_link)
 
 - Copy the connect2ic.css file into the src folder of personalfinancetracker_frontend folder.
   ![connect2iccss](connect2iccss.jpg)
